@@ -1,0 +1,19 @@
+{
+  "title": "Kurspreis auf 497 € erhöhen?",
+  "decision": "Den Kurspreis von 297 € anheben, und wenn ja, für wen.",
+  "mode": "quick",
+  "options": [
+    { "id": "A", "label": "Sofort für alle auf 497 €" },
+    { "id": "B", "label": "Nur für Neue auf 497 €" },
+    { "id": "C", "label": "Bei 297 € bleiben" }
+  ],
+  "weights": {
+    "hormozi": { "weight": 3, "reason": "Preis und Angebot sind seine Säule" },
+    "graham": { "weight": 2, "reason": "Ob die Nachfrage den höheren Preis trägt" },
+    "garyvee": { "weight": 2, "reason": "Woher bei höherem Preis die Besucherinnen kommen" },
+    "buffett": { "weight": 2, "reason": "Liquiditätsrisiko, wenn die Verkäufe einbrechen" }
+  },
+  "seats": ["hormozi", "graham", "garyvee", "buffett"],
+  "brief": "Online-Kurs für 297 €, rund 6.000 € im Monat, 3 % Kaufquote, 15.000 € Rücklage. Ziel 10.000 € im Monat bis März. Tendenz: für alle erhöhen.",
+  "assumptions": ["Allein selbstständig (angenommen)", "20 Stunden pro Woche für den Kurs (angenommen)"]
+}

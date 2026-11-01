@@ -1,0 +1,15 @@
+{
+  "name": "expertenrunde",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Expertenrunde: deutsche Fassung des Roast Room (MIT, AI Automation Society). Zwölf KI-Berater, gebaut aus den öffentlichen Werken von Bezos, Paul Graham, Hormozi, Gary Vaynerchuk, Dan Martell, Gino Wickman, Buffett, Naval Ravikant, Codie Sanchez, Leila Hormozi, Sara Blakely und Elon Musk, streiten in Claude Code über deine Entscheidung, live an einem Tisch.",
+  "type": "module",
+  "scripts": {
+    "start": "node app/server.mjs --port 3100",
+    "smoke": "node app/scripts/smoke.mjs",
+    "dev": "node app/server.mjs --port 3100"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

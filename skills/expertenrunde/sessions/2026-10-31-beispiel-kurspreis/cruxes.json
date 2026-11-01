@@ -1,0 +1,21 @@
+{
+  "cruxes": [
+    {
+      "question": "Bringt es etwas, Bestandskundinnen beim alten Preis zu lassen?",
+      "sides": [
+        { "position": "Nein, nur Aufwand", "seats": ["Hormozi", "Gary V"] },
+        { "position": "Ja, schützt Ruf und Empfehlungen", "seats": ["Graham", "Buffett"] }
+      ]
+    },
+    {
+      "question": "Reicht der höhere Preis allein?",
+      "sides": [
+        { "position": "Nein, Bonus und Garantie dazu", "seats": ["Hormozi"] },
+        { "position": "Nein, mehr Reichweite dazu", "seats": ["Gary V"] },
+        { "position": "Ja, mit fester Abbruchgrenze", "seats": ["Buffett", "Graham"] }
+      ]
+    }
+  ],
+  "unanimous": false,
+  "note": "Alle wollen höher, sie streiten über das Wie: für alle oder nur für Neue, und was den Preis tragen muss."
+}

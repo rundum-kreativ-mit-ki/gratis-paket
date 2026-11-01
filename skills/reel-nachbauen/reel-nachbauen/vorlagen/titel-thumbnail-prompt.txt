@@ -1,0 +1,10 @@
+Für Higgsfield, Modell gpt_image_2_5, quality medium, resolution 2k. Den Teil in <spitzen Klammern> ersetzen.
+Den Titeltext immer exakt in Anführungszeichen angeben und danach Buchstabe für Buchstabe prüfen.
+
+--- TITELGRAFIK (aspect_ratio 3:2, background transparent, keine Referenz) ---
+A bold animated-movie title graphic on a fully transparent background, nothing else in the image. Exactly two lines of text, centered: first line large, "<GROSSE ZEILE>", second line smaller, "<kleine Zeile>". Chunky rounded 3D letters in <warm yellow with an orange gradient / Farbe passend zum Film>, thick dark outline, soft drop shadow, playful Pixar movie poster style. The text must be spelled exactly as given, including German umlauts. No other text, no characters, no background, no frame.
+
+--- THUMBNAIL (aspect_ratio 9:16, Figurenblätter als image_references) ---
+Instagram reel cover, vertical 9:16, premium Pixar and Disney feature-film quality 3D animation, the characters exactly as in the attached character sheets. <Pointen-Szene: wer, wo, was passiert, Gesichtsausdruck>. <Feste Merkmale der Figuren wie im Film>. Warm light, rich detail.
+
+Big bold German headline near the top, white letters with a thick dark outline, exactly this text in two lines: "<GROSSE ZEILE>" and below, smaller: "<kleine Zeile>". The headline starts at least 100 pixels below the top edge and stays at least 80 pixels away from the left and right edges. Keep the faces in the middle 85 percent of the width and below the headline. No other text, no logos, no watermark.

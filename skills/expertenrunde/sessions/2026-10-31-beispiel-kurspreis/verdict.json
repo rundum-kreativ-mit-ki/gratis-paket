@@ -1,0 +1,26 @@
+{
+  "label": "MACHEN MIT BEDINGUNGEN",
+  "call": "Nimm für Neue ab einem angekündigten Stichtag 497 € (Option B) und schreib vorher fest: Unter 12 Verkäufen nach rund 600 Besuchen gehst du zurück auf 297 €.",
+  "recommended": "B",
+  "why": [
+    { "point": "Bei 497 € bringen die heutigen 20 Verkäufe rund 9.940 €, das Ziel ohne eine Besucherin mehr. Erst unter 12 Verkäufen stehst du schlechter da als heute.", "seat": "Hormozi", "framework": "Preis als stärkster Hebel" },
+    { "point": "Bestandskundinnen beim alten Preis zu lassen kostet bei einem Einmalkurs fast nichts und schützt die Leute, die dich weiterempfehlen.", "seat": "Buffett", "framework": "Ruf vor Geld" },
+    { "point": "Ob der Preis trägt, zeigt nur Zahlung. Deshalb ein befristeter Test mit vorher festgelegter Linie.", "seat": "Graham", "framework": "Make something people want" }
+  ],
+  "minority": { "seat": "Gary V", "quote": "Die Grenze sagt dir, wann du verloren hast. Sie sagt dir nicht, wie du gewinnst.", "would_have_to_be_true": "Die Besucherzahl ist der eigentliche Engpass, und ohne tägliche Inhalte scheitert der Test an Zufallsschwankungen." },
+  "next_steps": [
+    { "when": "Diese Woche", "action": "Besucherzahl und Kaufquote als Vorher-Wert notieren, Abbruchlinie aufschreiben." },
+    { "when": "In 7 Tagen", "action": "Preis für Neue mit Stichtag umstellen, Bestandskundinnen per Mail mit einem Zusatz informieren." },
+    { "when": "Nach 4 Wochen", "action": "Unter 12 Verkäufen zurück, 12 bis 19 nachbessern, ab 20 behalten." }
+  ],
+  "kill_criteria": "Nach rund 600 Besuchen weniger als 12 Verkäufe zu 497 €: zurück auf 297 € oder 397 € testen.",
+  "conditions": ["Abbruchlinie vor dem Start schriftlich", "Empfehlungsanteil der Käuferinnen klären, sonst A statt B", "Feste Kosten unter etwa 3.000 € im Monat oder sechs Monatskosten Polster"],
+  "fights": [
+    { "crux": "Bringt es etwas, Bestandskundinnen beim alten Preis zu lassen?", "story": "Hormozi und Gary V hielten es für Aufwand, Buffett und Graham für billige Versicherung. Gary V hob B an, Hormozi schlug eine Mail mit Zusatz vor. Offen bleibt der Empfehlungsanteil." },
+    { "crux": "Reicht der höhere Preis allein?", "story": "Nein, sagen alle. Hormozi will Bonus und Garantie, Gary V täglichen Inhalt. Die Abbruchgrenze von Buffett haben am Ende alle vier übernommen." }
+  ],
+  "amendments": [],
+  "cheapest_test": "Die letzten 20 Käuferinnen fragen, ob sie den Kurs vermissen würden und wie sie davon erfahren haben.",
+  "revisit": "Nach vier Wochen, mit Besuchen, Verkäufen und Empfehlungsanteil.",
+  "override_note": ""
+}

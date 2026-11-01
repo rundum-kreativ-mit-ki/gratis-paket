@@ -1,0 +1,20 @@
+Für Higgsfield, Modell gpt_image_2_5, aspect_ratio 3:2, quality medium, resolution 2k, die Figurenblätter als image_references.
+Nur zur Planung und Freigabe. Seedance bekommt das Storyboard nicht.
+
+--- STORYBOARD JE KAPITEL ---
+15-second animated storyboard sheet, chapter <N> of <M>, for a wordless stylized 3D animated comedy short titled "<Titel>". A complete professional animation storyboard presentation page in LANDSCAPE format featuring 12 sequential cinematic panels arranged in two rows of six tall panels (6 columns, 2 rows), each panel a TALL vertical 9:16 portrait frame, never landscape. Fast comedic editing rhythm, about 1.25 seconds per panel.
+
+Style: premium feature-film quality stylized 3D animation, exactly the characters and rendering style of the attached character sheets, highly expressive comedic acting, warm lighting, soft global illumination.
+
+Cast lock: exactly ONE <Figur 1 mit Beschreibung>, exactly ONE <Figur 2 mit Beschreibung>. <Bei zwei Tieren: The two animals never turn into each other.>
+
+Setting: <Orte>.
+
+Panel 1 (00:00.0 to 00:01.2): <Einstellung, Ort, Handlung>.
+Panel 2 (00:01.2 to 00:02.4): ...
+... bis Panel 12 (00:13.2 to 00:15.0).
+
+Storyboard layout: warm beige storyboard paper, each frame numbered 1 to 12 with a small timecode, short handwritten-style shot notes under each frame, thin black borders. Do not copy the layout of the character sheets. No letters on objects in the scene.
+
+--- STARTBILD JE KAPITEL (aspect_ratio 9:16) ---
+A single vertical 9:16 film still, full frame, no borders, no text. Premium feature-film quality stylized 3D animation, exactly the characters and rendering style of the attached character sheets. <Erste Einstellung des Kapitels: Bildausschnitt, Ort, wer wo steht, was passiert>. Exactly ONE <Figur>. Keep the characters inside the middle 85 percent of the width. No letters anywhere.

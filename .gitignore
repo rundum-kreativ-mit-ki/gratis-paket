@@ -1,0 +1,4 @@
+skill-observations/
+.playwright-cli/
+node_modules/
+.env

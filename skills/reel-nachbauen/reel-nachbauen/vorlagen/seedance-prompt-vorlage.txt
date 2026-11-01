@@ -1,0 +1,28 @@
+15-second vertical 9:16 wordless comedy clip, chapter <N> of <M>, stylized 3D animation, 12 quick shots with hard cuts, energetic comedic editing, about one cut per second.
+
+[Characters]
+@Image1 is <Figur 1>: <kurze Beschreibung: Art, Farbe, Ohren, Kleidung, Halsband ja/nein>. 100% matches the reference. Use only its appearance. Exactly ONE <Figur 1>, no duplicates, no twins.
+@Image2 is <Figur 2>: <kurze Beschreibung mit festen Merkmalen: Haarfarbe, Kleidung, Zubehör wie Brille oder Headset, in jedem Kapitel wortgleich>. 100% matches the reference. Use only the appearance, hairstyle and clothing. Exactly ONE <Figur 2>.
+<Bei zwei Tieren: The two animals are separate characters. Do not interchange them.>
+[Objects]
+<Gegenstand, der mitspielt, zum Beispiel: a round white robot vacuum cleaner, plain surface, no logo, no lettering, no display text>. Exactly ONE.
+
+Start from the composition of the start image and bring it to life: <was das Startbild zeigt>.
+
+Style: premium feature-film quality stylized 3D animation, highly expressive comedic acting, squash and stretch, snappy anticipation, warm lighting, soft global illumination, rich detail, real-time speed, quick and bouncy movement.
+
+Camera: hard cuts between shots, low angles at <eye level of the animal / eye level>, one camera move per shot.
+
+[Scenes]
+[00:00 - 00:01] <Einstellung: Bildausschnitt, Ort>: <Handlung mit @ImageN>.
+[00:01 - 00:02] Cut. <...>
+<... insgesamt etwa zwölf Blöcke bis [00:13 - 00:15]>
+
+Character lock: exactly ONE <Figur 1> (@Image1), exactly ONE <Figur 2> (@Image2), each identical to its reference in every shot. <Wo welche Figur vorkommt.> <Türen: The front door stays completely closed in this chapter.>
+
+[Maintain Consistency]
+Same characters, same proportions, same colours, same places in every shot. <Ab Kapitel 2: Same room, same furniture and same lighting as in chapter 1.> Do not show any storyboard sheet, no paper, no grid, no panel frames.
+
+Audio: natural foley only: <passende Geräusche>. No music, no score, no spoken words, no dialogue.
+
+Negatives: duplicate limbs, extra legs, second <Tier>, twins, deformed paws or face, changed face, characters swapping appearance, <collar,> door opening by itself, flicker, warping, morphing, slow motion, text, subtitles, watermark.
