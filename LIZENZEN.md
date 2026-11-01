@@ -8,6 +8,9 @@ Jeder Baustein in diesem Paket hat seine eigene Lizenz. Maßgeblich ist immer di
 | `skills/expertenrunde/app/public` (PDF-Bau) | [jsPDF](https://github.com/parallax/jsPDF), Schrift [Montserrat](https://github.com/JulietaUla/Montserrat) | MIT, SIL Open Font License | siehe Lizenzdateien in `app/public/` |
 | `skills/grill-me` | Unverändert aus [mattpocock/skills](https://github.com/mattpocock/skills) | MIT | 2026 Matt Pocock |
 | `skills/ich-hooks` | Deutsche Übertragung und Anpassung von `hook-generator` aus [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills) | MIT | 2026 Charlie Hills |
+| `skills/brag` | Skills brag und brag-slim von Shunit Haviv Hakimi, Original [latent-spaces/brag](https://github.com/latent-spaces/brag), Fassung wie bei Natalie, kann vom aktuellen Original abweichen | MIT | 2026 Shunit Haviv Hakimi |
+| `skills/brag/brag/assets/music` | Fünf Titel „Happy Beats / Business Moves“ von Sascha Ende, [ende.app](https://ende.app/en/standard-license) | CC BY 4.0, Namensnennung „Musik: Sascha Ende (ende.app), CC BY 4.0“ | Sascha Ende |
+| `skills/brag/brag/assets/sfx` | Soundeffekte aus den Audio-Paketen von [Kenney](https://kenney.nl/) | CC0 (gemeinfrei) | Kenney |
 | `skills/reel-nachbauen` | Eigener Skill von Natalie Hitschler | wird noch festgelegt | Natalie Hitschler |
 | `anleitungen/hyperframes` | Eigene Anleitung, verweist auf [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (Apache-2.0, HeyGen, Inc.), nichts davon kopiert | wird noch festgelegt | Natalie Hitschler |
 | Diese Übersicht und die Haupt-README | Natalie Hitschler | wird noch festgelegt | Natalie Hitschler |

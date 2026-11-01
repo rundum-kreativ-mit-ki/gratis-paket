@@ -16,6 +16,7 @@ Genau deshalb gibt es dieses Paket. Hier sammle ich die Skills und Anleitungen, 
 | [Grill me](skills/grill-me/) | Claude nimmt deinen Plan ins Kreuzverhör, Runde für Runde, bis jede Lücke geklärt ist. |
 | [Ich-Hooks](skills/ich-hooks/) | 6 zweizeilige Hooks für Reels und Posts, die zugeben statt angreifen. Ohne erfundene Zahlen. |
 | [Reel nachbauen](skills/reel-nachbauen/) | Aus einem Reel, das gut läuft, wird dein eigenes animiertes Reel, mit deinen Figuren und deiner Geschichte. |
+| [brag](skills/brag/) | Aus deiner Website oder deinem Projekt wird ein kurzes Werbevideo mit Bewegung, Musik und Text zum Teilen. Ein Satz an Claude Code reicht. |
 
 ### Anleitungen
 
