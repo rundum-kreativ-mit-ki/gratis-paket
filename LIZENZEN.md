@@ -11,6 +11,7 @@ Jeder Baustein in diesem Paket hat seine eigene Lizenz. Maßgeblich ist immer di
 | `skills/brag` | Skills brag und brag-slim von Shunit Haviv Hakimi, Original [latent-spaces/brag](https://github.com/latent-spaces/brag), Fassung wie bei Natalie, kann vom aktuellen Original abweichen | MIT | 2026 Shunit Haviv Hakimi |
 | `skills/brag/brag/assets/music` | Fünf Titel „Happy Beats / Business Moves“ von Sascha Ende, [ende.app](https://ende.app/en/standard-license) | CC BY 4.0, Namensnennung „Musik: Sascha Ende (ende.app), CC BY 4.0“ | Sascha Ende |
 | `skills/brag/brag/assets/sfx` | Soundeffekte aus den Audio-Paketen von [Kenney](https://kenney.nl/) | CC0 (gemeinfrei) | Kenney |
+| `skills/reel-roentgen` | Eigener Skill von Natalie Hitschler, komplett in eigenen Worten | MIT (Vorschlag, noch von Natalie zu bestätigen) | 2026 Natalie Hitschler |
 | `skills/reel-nachbauen` | Eigener Skill von Natalie Hitschler | wird noch festgelegt | Natalie Hitschler |
 | `anleitungen/hyperframes` | Eigene Anleitung, verweist auf [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (Apache-2.0, HeyGen, Inc.), nichts davon kopiert | wird noch festgelegt | Natalie Hitschler |
 | Diese Übersicht und die Haupt-README | Natalie Hitschler | wird noch festgelegt | Natalie Hitschler |
