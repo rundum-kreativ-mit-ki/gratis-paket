@@ -46,7 +46,7 @@ Nutze fremde Videos nur zum Lernen und zum Verstehen. Wenn du daraus etwas Eigen
 
 ## Herkunft und Lizenz
 
-Eigener Skill von Natalie Hitschler, komplett in eigenen Worten geschrieben. Er enthält keinen fremden Text und keine fremden Dateien. Er ruft nur Programme auf, die du selbst installierst:
+Eigener Skill von Natalie Hitschler. Er ruft nur Programme auf, die du selbst installierst:
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): Unlicense (gemeinfrei), wird nicht mitgeliefert
 - [FFmpeg](https://ffmpeg.org): LGPL/GPL, wird nicht mitgeliefert
