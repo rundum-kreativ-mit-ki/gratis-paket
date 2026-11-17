@@ -23,7 +23,13 @@ Für alle, die wissen wollen, warum ein Reel läuft, bevor sie eigene bauen. Und
 - `ffmpeg` (zerlegt das Video) und `yt-dlp` (holt Links). Fehlt etwas, sag es Claude Code, er installiert es dir.
 - Für die Tonspur: ein Spracherkennungs-Werkzeug. Der Skill nimmt ElevenLabs, wenn es bei dir verbunden ist, sonst vorhandene Untertitel oder Whisper über einen eigenen Schlüssel.
 
-Die Befehle im Skill sind für PowerShell unter Windows geschrieben. Dort habe ich ihn gebaut und getestet.
+Die Befehle im Skill sind für PowerShell unter Windows geschrieben. Dort habe ich ihn gebaut und getestet. Auf dem Mac übersetzt Claude Code die wenigen Windows-Befehle selbst, ffmpeg und yt-dlp funktionieren dort genauso.
+
+## Wenn es hakt
+
+- **Fehler mit Netzwerk oder „Host“:** Meist blockiert die Sandbox von Claude Code den Download. Claude fragt dich dann, ob er den Befehl ohne Sandbox ausführen darf. Noch einfacher: Lade das Video selbst herunter und gib Claude die Datei, ab dann braucht der Skill kein Internet mehr.
+- **ElevenLabs:** Ist kein Muss. Hast du ElevenLabs nicht in Claude Code verbunden, nimmt der Skill vorhandene Untertitel oder Whisper mit einem eigenen Schlüssel (Groq oder OpenAI). Hast du nichts davon, sagt er dir, dass er den Ton nicht abhören konnte, statt ihn zu raten.
+- **Instagram:** verlangt beim Herunterladen oft eine Anmeldung. Dann liest yt-dlp sie aus deinem Browser, Claude fragt dich vorher. Klappt es nicht, lade das Reel selbst herunter und gib Claude die Datei.
 
 ## Was es kostet
 
